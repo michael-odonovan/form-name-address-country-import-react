@@ -1,0 +1,22 @@
+form, .output {
+  width: 95%;
+  max-width: 400px;
+  margin: 100px auto;
+  display: grid;
+  gap: 20px;
+}
+
+.fieldWrapper {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+}
+
+input[type="submit"] {
+  justify-self: end;
+  background: #333;
+  padding: 8px 12px;
+  border: 0;
+  border-radius: 5px;
+  color: white;
+  margin-top: 17px;
+}
