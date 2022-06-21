@@ -1,6 +1,7 @@
+// This list comes from here => https://gist.github.com/incredimike/1469814
+
 // Lists of countries with ISO 3166 codes, presented in various formats.
 // Last Updated: July 30, 2020
-// Came from here => https://gist.github.com/incredimike/1469814
 
 // List of all countries in a simple list / array.
 // Sorted alphabetical by country name (special characters on bottom)

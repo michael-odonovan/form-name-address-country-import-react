@@ -1,8 +1,7 @@
 import './App.css';
 import { useState } from 'react'
 import { countryList } from './variousCountryListFormats.js'
-
-// note that input elements in React have to be self closing tags
+import { countryListNumeric } from './variousCountryListFormats.js'
 
 function App() {
 
@@ -42,10 +41,11 @@ function App() {
         <div className="fieldWrapper">
           <label htmlFor="country">country:</label>
           <select autoComplete="off" id="country" name="country" value={contactInfo.country} onChange={handleChange}>
-            <option value="Australia">{countryList[0]}</option>
-            <option value="Australia">Australia</option>
-            <option value="Japan">Japan</option>
-            <option value="England">England</option>
+
+            {countryList.map(country  => (
+              <option value={country} key={country}>{country}</option>
+            ))}
+
           </select>
         </div>
 
