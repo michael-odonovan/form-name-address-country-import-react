@@ -1,7 +1,6 @@
 import './App.css';
 import { useState } from 'react'
 import { countryList } from './variousCountryListFormats.js'
-import { countryListNumeric } from './variousCountryListFormats.js'
 
 function App() {
 

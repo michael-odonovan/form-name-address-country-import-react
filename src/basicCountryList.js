@@ -1,3 +1,5 @@
+export const basicCountryList = [
+
 Afghanistan
 Albania
 Algeria
@@ -194,3 +196,5 @@ Vietnam
 Yemen
 Zambia
 Zimbabwe
+
+]
