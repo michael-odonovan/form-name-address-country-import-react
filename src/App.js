@@ -42,7 +42,7 @@ function App() {
           <select autoComplete="off" id="country" name="country" value={contactInfo.country} onChange={handleChange}>
 
             {countryList.map(country  => (
-              <option value={country} key={country}>{country.displayValue}</option>
+              <option value={country.value} key={country.value}>{country.displayValue}</option>
             ))}
 
           </select>
