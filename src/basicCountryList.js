@@ -1,592 +1,592 @@
 export const basicCountryList = [
 
 {value: "Afghanistan",
-{displayValue: "Afghanistan"
+displayValue: "Afghanistan"
 },
 {value: "Albania",
-{displayValue: "Albania"
+displayValue: "Albania"
 },
 {value: "Algeria",
-{displayValue: "Algeria"
+displayValue: "Algeria"
 },
 {value: "Andorra",
-{displayValue: "Andorra"
+displayValue: "Andorra"
 },
 {value: "Angola",
-{displayValue: "Angola"
+displayValue: "Angola"
 },
 {value: "Antigua & Deps",
-{displayValue: "Antigua & Deps"
+displayValue: "Antigua & Deps"
 },
 {value: "Argentina",
-{displayValue: "Argentina"
+displayValue: "Argentina"
 },
 {value: "Armenia",
-{displayValue: "Armenia"
+displayValue: "Armenia"
 },
 {value: "Australia",
-{displayValue: "Australia"
+displayValue: "Australia"
 },
 {value: "Austria",
-{displayValue: "Austria"
+displayValue: "Austria"
 },
 {value: "Azerbaijan",
-{displayValue: "Azerbaijan"
+displayValue: "Azerbaijan"
 },
 {value: "Bahamas",
-{displayValue: "Bahamas"
+displayValue: "Bahamas"
 },
 {value: "Bahrain",
-{displayValue: "Bahrain"
+displayValue: "Bahrain"
 },
 {value: "Bangladesh",
-{displayValue: "Bangladesh"
+displayValue: "Bangladesh"
 },
 {value: "Barbados",
-{displayValue: "Barbados"
+displayValue: "Barbados"
 },
 {value: "Belarus",
-{displayValue: "Belarus"
+displayValue: "Belarus"
 },
 {value: "Belgium",
-{displayValue: "Belgium"
+displayValue: "Belgium"
 },
 {value: "Belize",
-{displayValue: "Belize"
+displayValue: "Belize"
 },
 {value: "Benin",
-{displayValue: "Benin"
+displayValue: "Benin"
 },
 {value: "Bhutan",
-{displayValue: "Bhutan"
+displayValue: "Bhutan"
 },
 {value: "Bolivia",
-{displayValue: "Bolivia"
+displayValue: "Bolivia"
 },
 {value: "Bosnia Herzegovina",
-{displayValue: "Bosnia Herzegovina"
+displayValue: "Bosnia Herzegovina"
 },
 {value: "Botswana",
-{displayValue: "Botswana"
+displayValue: "Botswana"
 },
 {value: "Brazil",
-{displayValue: "Brazil"
+displayValue: "Brazil"
 },
 {value: "Brunei",
-{displayValue: "Brunei"
+displayValue: "Brunei"
 },
 {value: "Bulgaria",
-{displayValue: "Bulgaria"
+displayValue: "Bulgaria"
 },
 {value: "Burkina",
-{displayValue: "Burkina"
+displayValue: "Burkina"
 },
 {value: "Burundi",
-{displayValue: "Burundi"
+displayValue: "Burundi"
 },
 {value: "Cambodia",
-{displayValue: "Cambodia"
+displayValue: "Cambodia"
 },
 {value: "Cameroon",
-{displayValue: "Cameroon"
+displayValue: "Cameroon"
 },
 {value: "Canada",
-{displayValue: "Canada"
+displayValue: "Canada"
 },
 {value: "Cape Verde",
-{displayValue: "Cape Verde"
+displayValue: "Cape Verde"
 },
 {value: "Central African Rep",
-{displayValue: "Central African Rep"
+displayValue: "Central African Rep"
 },
 {value: "Chad",
-{displayValue: "Chad"
+displayValue: "Chad"
 },
 {value: "Chile",
-{displayValue: "Chile"
+displayValue: "Chile"
 },
 {value: "China",
-{displayValue: "China"
+displayValue: "China"
 },
 {value: "Colombia",
-{displayValue: "Colombia"
+displayValue: "Colombia"
 },
 {value: "Comoros",
-{displayValue: "Comoros"
+displayValue: "Comoros"
 },
 {value: "Congo",
-{displayValue: "Congo"
+displayValue: "Congo"
 },
-{value: "Congo {Democratic Rep,
-{displayValue: "Congo {Democratic Rep
+{value: "Congo Democratic Rep,
+displayValue: "Congo Democratic Rep
   }"},
 {value: "Costa Rica",
-{displayValue: "Costa Rica"
+displayValue: "Costa Rica"
 },
 {value: "Croatia",
-{displayValue: "Croatia"
+displayValue: "Croatia"
 },
 {value: "Cuba",
-{displayValue: "Cuba"
+displayValue: "Cuba"
 },
 {value: "Cyprus",
-{displayValue: "Cyprus"
+displayValue: "Cyprus"
 },
 {value: "Czech Republic",
-{displayValue: "Czech Republic"
+displayValue: "Czech Republic"
 },
 {value: "Denmark",
-{displayValue: "Denmark"
+displayValue: "Denmark"
 },
 {value: "Djibouti",
-{displayValue: "Djibouti"
+displayValue: "Djibouti"
 },
 {value: "Dominica",
-{displayValue: "Dominica"
+displayValue: "Dominica"
 },
 {value: "Dominican Republic",
-{displayValue: "Dominican Republic"
+displayValue: "Dominican Republic"
 },
 {value: "East Timor",
-{displayValue: "East Timor"
+displayValue: "East Timor"
 },
 {value: "Ecuador",
-{displayValue: "Ecuador"
+displayValue: "Ecuador"
 },
 {value: "Egypt",
-{displayValue: "Egypt"
+displayValue: "Egypt"
 },
 {value: "El Salvador",
-{displayValue: "El Salvador"
+displayValue: "El Salvador"
 },
 {value: "Equatorial Guinea",
-{displayValue: "Equatorial Guinea"
+displayValue: "Equatorial Guinea"
 },
 {value: "Eritrea",
-{displayValue: "Eritrea"
+displayValue: "Eritrea"
 },
 {value: "Estonia",
-{displayValue: "Estonia"
+displayValue: "Estonia"
 },
 {value: "Ethiopia",
-{displayValue: "Ethiopia"
+displayValue: "Ethiopia"
 },
 {value: "Fiji",
-{displayValue: "Fiji"
+displayValue: "Fiji"
 },
 {value: "Finland",
-{displayValue: "Finland"
+displayValue: "Finland"
 },
 {value: "France",
-{displayValue: "France"
+displayValue: "France"
 },
 {value: "Gabon",
-{displayValue: "Gabon"
+displayValue: "Gabon"
 },
 {value: "Gambia",
-{displayValue: "Gambia"
+displayValue: "Gambia"
 },
 {value: "Georgia",
-{displayValue: "Georgia"
+displayValue: "Georgia"
 },
 {value: "Germany",
-{displayValue: "Germany"
+displayValue: "Germany"
 },
 {value: "Ghana",
-{displayValue: "Ghana"
+displayValue: "Ghana"
 },
 {value: "Greece",
-{displayValue: "Greece"
+displayValue: "Greece"
 },
 {value: "Grenada",
-{displayValue: "Grenada"
+displayValue: "Grenada"
 },
 {value: "Guatemala",
-{displayValue: "Guatemala"
+displayValue: "Guatemala"
 },
 {value: "Guinea",
-{displayValue: "Guinea"
+displayValue: "Guinea"
 },
 {value: "Guinea-Bissau",
-{displayValue: "Guinea-Bissau"
+displayValue: "Guinea-Bissau"
 },
 {value: "Guyana",
-{displayValue: "Guyana"
+displayValue: "Guyana"
 },
 {value: "Haiti",
-{displayValue: "Haiti"
+displayValue: "Haiti"
 },
 {value: "Honduras",
-{displayValue: "Honduras"
+displayValue: "Honduras"
 },
 {value: "Hungary",
-{displayValue: "Hungary"
+displayValue: "Hungary"
 },
 {value: "Iceland",
-{displayValue: "Iceland"
+displayValue: "Iceland"
 },
 {value: "India",
-{displayValue: "India"
+displayValue: "India"
 },
 {value: "Indonesia",
-{displayValue: "Indonesia"
+displayValue: "Indonesia"
 },
 {value: "Iran",
-{displayValue: "Iran"
+displayValue: "Iran"
 },
 {value: "Iraq",
-{displayValue: "Iraq"
+displayValue: "Iraq"
 },
 {value: "Ireland {Republic,
-{displayValue: "Ireland {Republic
+displayValue: "Ireland {Republic
   }"},
 {value: "Israel",
-{displayValue: "Israel"
+displayValue: "Israel"
 },
 {value: "Italy",
-{displayValue: "Italy"
+displayValue: "Italy"
 },
 {value: "Ivory Coast",
-{displayValue: "Ivory Coast"
+displayValue: "Ivory Coast"
 },
 {value: "Jamaica",
-{displayValue: "Jamaica"
+displayValue: "Jamaica"
 },
 {value: "Japan",
-{displayValue: "Japan"
+displayValue: "Japan"
 },
 {value: "Jordan",
-{displayValue: "Jordan"
+displayValue: "Jordan"
 },
 {value: "Kazakhstan",
-{displayValue: "Kazakhstan"
+displayValue: "Kazakhstan"
 },
 {value: "Kenya",
-{displayValue: "Kenya"
+displayValue: "Kenya"
 },
 {value: "Kiribati",
-{displayValue: "Kiribati"
+displayValue: "Kiribati"
 },
 {value: "Korea North",
-{displayValue: "Korea North"
+displayValue: "Korea North"
 },
 {value: "Korea South",
-{displayValue: "Korea South"
+displayValue: "Korea South"
 },
 {value: "Kosovo",
-{displayValue: "Kosovo"
+displayValue: "Kosovo"
 },
 {value: "Kuwait",
-{displayValue: "Kuwait"
+displayValue: "Kuwait"
 },
 {value: "Kyrgyzstan",
-{displayValue: "Kyrgyzstan"
+displayValue: "Kyrgyzstan"
 },
 {value: "Laos",
-{displayValue: "Laos"
+displayValue: "Laos"
 },
 {value: "Latvia",
-{displayValue: "Latvia"
+displayValue: "Latvia"
 },
 {value: "Lebanon",
-{displayValue: "Lebanon"
+displayValue: "Lebanon"
 },
 {value: "Lesotho",
-{displayValue: "Lesotho"
+displayValue: "Lesotho"
 },
 {value: "Liberia",
-{displayValue: "Liberia"
+displayValue: "Liberia"
 },
 {value: "Libya",
-{displayValue: "Libya"
+displayValue: "Libya"
 },
 {value: "Liechtenstein",
-{displayValue: "Liechtenstein"
+displayValue: "Liechtenstein"
 },
 {value: "Lithuania",
-{displayValue: "Lithuania"
+displayValue: "Lithuania"
 },
 {value: "Luxembourg",
-{displayValue: "Luxembourg"
+displayValue: "Luxembourg"
 },
 {value: "Macedonia",
-{displayValue: "Macedonia"
+displayValue: "Macedonia"
 },
 {value: "Madagascar",
-{displayValue: "Madagascar"
+displayValue: "Madagascar"
 },
 {value: "Malawi",
-{displayValue: "Malawi"
+displayValue: "Malawi"
 },
 {value: "Malaysia",
-{displayValue: "Malaysia"
+displayValue: "Malaysia"
 },
 {value: "Maldives",
-{displayValue: "Maldives"
+displayValue: "Maldives"
 },
 {value: "Mali",
-{displayValue: "Mali"
+displayValue: "Mali"
 },
 {value: "Malta",
-{displayValue: "Malta"
+displayValue: "Malta"
 },
 {value: "Marshall Islands",
-{displayValue: "Marshall Islands"
+displayValue: "Marshall Islands"
 },
 {value: "Mauritania",
-{displayValue: "Mauritania"
+displayValue: "Mauritania"
 },
 {value: "Mauritius",
-{displayValue: "Mauritius"
+displayValue: "Mauritius"
 },
 {value: "Mexico",
-{displayValue: "Mexico"
+displayValue: "Mexico"
 },
 {value: "Micronesia",
-{displayValue: "Micronesia"
+displayValue: "Micronesia"
 },
 {value: "Moldova",
-{displayValue: "Moldova"
+displayValue: "Moldova"
 },
 {value: "Monaco",
-{displayValue: "Monaco"
+displayValue: "Monaco"
 },
 {value: "Mongolia",
-{displayValue: "Mongolia"
+displayValue: "Mongolia"
 },
 {value: "Montenegro",
-{displayValue: "Montenegro"
+displayValue: "Montenegro"
 },
 {value: "Morocco",
-{displayValue: "Morocco"
+displayValue: "Morocco"
 },
 {value: "Mozambique",
-{displayValue: "Mozambique"
+displayValue: "Mozambique"
 },
 {value: "Myanmar, {Burma,
-{displayValue: "Myanmar, {Burma
+displayValue: "Myanmar, {Burma
   }"},
 {value: "Namibia",
-{displayValue: "Namibia"
+displayValue: "Namibia"
 },
 {value: "Nauru",
-{displayValue: "Nauru"
+displayValue: "Nauru"
 },
 {value: "Nepal",
-{displayValue: "Nepal"
+displayValue: "Nepal"
 },
 {value: "Netherlands",
-{displayValue: "Netherlands"
+displayValue: "Netherlands"
 },
 {value: "New Zealand",
-{displayValue: "New Zealand"
+displayValue: "New Zealand"
 },
 {value: "Nicaragua",
-{displayValue: "Nicaragua"
+displayValue: "Nicaragua"
 },
 {value: "Niger",
-{displayValue: "Niger"
+displayValue: "Niger"
 },
 {value: "Nigeria",
-{displayValue: "Nigeria"
+displayValue: "Nigeria"
 },
 {value: "Norway",
-{displayValue: "Norway"
+displayValue: "Norway"
 },
 {value: "Oman",
-{displayValue: "Oman"
+displayValue: "Oman"
 },
 {value: "Pakistan",
-{displayValue: "Pakistan"
+displayValue: "Pakistan"
 },
 {value: "Palau",
-{displayValue: "Palau"
+displayValue: "Palau"
 },
 {value: "Panama",
-{displayValue: "Panama"
+displayValue: "Panama"
 },
 {value: "Papua New Guinea",
-{displayValue: "Papua New Guinea"
+displayValue: "Papua New Guinea"
 },
 {value: "Paraguay",
-{displayValue: "Paraguay"
+displayValue: "Paraguay"
 },
 {value: "Peru",
-{displayValue: "Peru"
+displayValue: "Peru"
 },
 {value: "Philippines",
-{displayValue: "Philippines"
+displayValue: "Philippines"
 },
 {value: "Poland",
-{displayValue: "Poland"
+displayValue: "Poland"
 },
 {value: "Portugal",
-{displayValue: "Portugal"
+displayValue: "Portugal"
 },
 {value: "Qatar",
-{displayValue: "Qatar"
+displayValue: "Qatar"
 },
 {value: "Romania",
-{displayValue: "Romania"
+displayValue: "Romania"
 },
 {value: "Russian Federation",
-{displayValue: "Russian Federation"
+displayValue: "Russian Federation"
 },
 {value: "Rwanda",
-{displayValue: "Rwanda"
+displayValue: "Rwanda"
 },
 {value: "St Kitts & Nevis",
-{displayValue: "St Kitts & Nevis"
+displayValue: "St Kitts & Nevis"
 },
 {value: "St Lucia",
-{displayValue: "St Lucia"
+displayValue: "St Lucia"
 },
 {value: "Saint Vincent & the Grenadines",
-{displayValue: "Saint Vincent & the Grenadines"
+displayValue: "Saint Vincent & the Grenadines"
 },
 {value: "Samoa",
-{displayValue: "Samoa"
+displayValue: "Samoa"
 },
 {value: "San Marino",
-{displayValue: "San Marino"
+displayValue: "San Marino"
 },
 {value: "Sao Tome & Principe",
-{displayValue: "Sao Tome & Principe"
+displayValue: "Sao Tome & Principe"
 },
 {value: "Saudi Arabia",
-{displayValue: "Saudi Arabia"
+displayValue: "Saudi Arabia"
 },
 {value: "Senegal",
-{displayValue: "Senegal"
+displayValue: "Senegal"
 },
 {value: "Serbia",
-{displayValue: "Serbia"
+displayValue: "Serbia"
 },
 {value: "Seychelles",
-{displayValue: "Seychelles"
+displayValue: "Seychelles"
 },
 {value: "Sierra Leone",
-{displayValue: "Sierra Leone"
+displayValue: "Sierra Leone"
 },
 {value: "Singapore",
-{displayValue: "Singapore"
+displayValue: "Singapore"
 },
 {value: "Slovakia",
-{displayValue: "Slovakia"
+displayValue: "Slovakia"
 },
 {value: "Slovenia",
-{displayValue: "Slovenia"
+displayValue: "Slovenia"
 },
 {value: "Solomon Islands",
-{displayValue: "Solomon Islands"
+displayValue: "Solomon Islands"
 },
 {value: "Somalia",
-{displayValue: "Somalia"
+displayValue: "Somalia"
 },
 {value: "South Africa",
-{displayValue: "South Africa"
+displayValue: "South Africa"
 },
 {value: "South Sudan",
-{displayValue: "South Sudan"
+displayValue: "South Sudan"
 },
 {value: "Spain",
-{displayValue: "Spain"
+displayValue: "Spain"
 },
 {value: "Sri Lanka",
-{displayValue: "Sri Lanka"
+displayValue: "Sri Lanka"
 },
 {value: "Sudan",
-{displayValue: "Sudan"
+displayValue: "Sudan"
 },
 {value: "Suriname",
-{displayValue: "Suriname"
+displayValue: "Suriname"
 },
 {value: "Swaziland",
-{displayValue: "Swaziland"
+displayValue: "Swaziland"
 },
 {value: "Sweden",
-{displayValue: "Sweden"
+displayValue: "Sweden"
 },
 {value: "Switzerland",
-{displayValue: "Switzerland"
+displayValue: "Switzerland"
 },
 {value: "Syria",
-{displayValue: "Syria"
+displayValue: "Syria"
 },
 {value: "Taiwan",
-{displayValue: "Taiwan"
+displayValue: "Taiwan"
 },
 {value: "Tajikistan",
-{displayValue: "Tajikistan"
+displayValue: "Tajikistan"
 },
 {value: "Tanzania",
-{displayValue: "Tanzania"
+displayValue: "Tanzania"
 },
 {value: "Thailand",
-{displayValue: "Thailand"
+displayValue: "Thailand"
 },
 {value: "Togo",
-{displayValue: "Togo"
+displayValue: "Togo"
 },
 {value: "Tonga",
-{displayValue: "Tonga"
+displayValue: "Tonga"
 },
 {value: "Trinidad & Tobago",
-{displayValue: "Trinidad & Tobago"
+displayValue: "Trinidad & Tobago"
 },
 {value: "Tunisia",
-{displayValue: "Tunisia"
+displayValue: "Tunisia"
 },
 {value: "Turkey",
-{displayValue: "Turkey"
+displayValue: "Turkey"
 },
 {value: "Turkmenistan",
-{displayValue: "Turkmenistan"
+displayValue: "Turkmenistan"
 },
 {value: "Tuvalu",
-{displayValue: "Tuvalu"
+displayValue: "Tuvalu"
 },
 {value: "Uganda",
-{displayValue: "Uganda"
+displayValue: "Uganda"
 },
 {value: "Ukraine",
-{displayValue: "Ukraine"
+displayValue: "Ukraine"
 },
 {value: "United Arab Emirates",
-{displayValue: "United Arab Emirates"
+displayValue: "United Arab Emirates"
 },
 {value: "United Kingdom",
-{displayValue: "United Kingdom"
+displayValue: "United Kingdom"
 },
 {value: "United States",
-{displayValue: "United States"
+displayValue: "United States"
 },
 {value: "Uruguay",
-{displayValue: "Uruguay"
+displayValue: "Uruguay"
 },
 {value: "Uzbekistan",
-{displayValue: "Uzbekistan"
+displayValue: "Uzbekistan"
 },
 {value: "Vanuatu",
-{displayValue: "Vanuatu"
+displayValue: "Vanuatu"
 },
 {value: "Vatican City",
-{displayValue: "Vatican City"
+displayValue: "Vatican City"
 },
 {value: "Venezuela",
-{displayValue: "Venezuela"
+displayValue: "Venezuela"
 },
 {value: "Vietnam",
-{displayValue: "Vietnam"
+displayValue: "Vietnam"
 },
 {value: "Yemen",
-{displayValue: "Yemen"
+displayValue: "Yemen"
 },
 {value: "Zambia",
-{displayValue: "Zambia"
+displayValue: "Zambia"
 },
 {value: "Zimbabwe",
-{displayValue: "Zimbabwe"
+displayValue: "Zimbabwe"
 },
 
 ]
