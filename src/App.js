@@ -6,8 +6,6 @@ import { countryList } from './variousCountryListFormats.js'
 
 function App() {
 
-  console.log(countryList)
-
   const [contactInfo, setContactInfo] = useState({
     email: "",
     name: "",
