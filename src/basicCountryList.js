@@ -1,4 +1,4 @@
-export const basicCountryList = [
+export const countryList = [
   {value: "Afghanistan", displayValue: "Afghanistan"},
   {value: "Albania", displayValue: "Albania"},
   {value: "Algeria", displayValue: "Algeria"},
@@ -38,7 +38,7 @@ export const basicCountryList = [
   {value: "Colombia", displayValue: "Colombia"},
   {value: "Comoros", displayValue: "Comoros"},
   {value: "Congo", displayValue: "Congo"},
-  {value: "Congo Democratic Rep, displayValue: "Congo Democratic Rep}"},
+  {value: "Congo Democratic Rep", displayValue: "Congo Democratic Rep}"},
   {value: "Costa Rica", displayValue: "Costa Rica"},
   {value: "Croatia", displayValue: "Croatia"},
   {value: "Cuba", displayValue: "Cuba"},
@@ -78,7 +78,7 @@ export const basicCountryList = [
   {value: "Indonesia", displayValue: "Indonesia"},
   {value: "Iran", displayValue: "Iran"},
   {value: "Iraq", displayValue: "Iraq"},
-  {value: "Ireland {Republic, displayValue: "Ireland {Republic}"},
+  {value: "Ireland", displayValue: "Ireland"},
   {value: "Israel", displayValue: "Israel"},
   {value: "Italy", displayValue: "Italy"},
   {value: "Ivory Coast", displayValue: "Ivory Coast"},
@@ -120,7 +120,7 @@ export const basicCountryList = [
   {value: "Montenegro", displayValue: "Montenegro"},
   {value: "Morocco", displayValue: "Morocco"},
   {value: "Mozambique", displayValue: "Mozambique"},
-  {value: "Myanmar, {Burma, displayValue: "Myanmar, {Burma}"},
+  {value: "Myanmar", displayValue: "Myanmar"},
   {value: "Namibia", displayValue: "Namibia"},
   {value: "Nauru", displayValue: "Nauru"},
   {value: "Nepal", displayValue: "Nepal"},

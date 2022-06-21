@@ -1,6 +1,6 @@
 import './App.css';
 import { useState } from 'react'
-import { countryList } from './variousCountryListFormats.js'
+import { countryList } from './basicCountryList.js'
 
 function App() {
 
@@ -42,7 +42,7 @@ function App() {
           <select autoComplete="off" id="country" name="country" value={contactInfo.country} onChange={handleChange}>
 
             {countryList.map(country  => (
-              <option value={country} key={country}>{country}</option>
+              <option value={country} key={country}>{country.displayValue}</option>
             ))}
 
           </select>
